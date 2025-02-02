@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "key": "ABC123-XYZ456",
+      "expiry": "2023-12-31",
+      "hwid": null,
+      "used": false
+    },
+    {
+      "key": "DEF456-UVW789",
+      "expiry": "2023-12-31",
+      "hwid": null,
+      "used": false
+    }
+  ]
+}
